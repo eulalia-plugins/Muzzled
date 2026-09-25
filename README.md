@@ -1,6 +1,6 @@
 #### Muzzled
 A custom Vencord plugin that gives Discord's voice controls a bit more bite.
-Replaces the standard mute/deafen visuals with custom muzzled, yappin, caged, and playin icons, with separate forcibly muzzled and forcibly caged visuals for server-enforced mute/deafen states.
+Replaces the standard mute/deafen visuals with custom muzzled, yappin, caged, and playin icons, with separate forcibly muzzled and forcibly caged visuals for server enforced mute/deafen.
 ### Installation
 
 1. Make sure you have [**Vencord built from source**](https://docs.vencord.dev/installing/).
@@ -9,4 +9,4 @@ Replaces the standard mute/deafen visuals with custom muzzled, yappin, caged, an
 4. Open **Settings → Vencord → Plugins**.
 5. Find **Muzzled** and enable it.
 
-That's it! The custom mute/deafen icons should now appear automatically.
+That's it! The icons should appear immediately!
